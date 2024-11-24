@@ -1,0 +1,31 @@
+.fillable-editor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .pdf-canvas {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .form-fields {
+    width: 60%;
+    margin-top: 20px;
+  }
+  
+  .form-fields input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
